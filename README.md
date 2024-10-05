@@ -1,5 +1,5 @@
 # practice
-this is demo class
+this is demo class.
 let a=2;
 let b=7;
 let c=a+b;
